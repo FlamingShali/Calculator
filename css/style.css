@@ -1,2 +1,11 @@
-body {
-  background-color: red; }
+* {
+  margin: 0;
+  padding: 0; }
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%; }
